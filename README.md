@@ -1,2 +1,3 @@
-# Learn-Java-the-Hard-Way
-This repo contains code and exercise solutions from the book <a><i>https://programmingbydoing.com/</i></a> written by <i>Graham Mitchell</i>
+# Learn-Java-the-Hard-Way 👨🏻‍💻
+
+This repo contains code and exercise solutions from the book [Programming By Doing](https://programmingbydoing.com/) written by `Graham Mitchell`
